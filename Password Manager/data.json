@@ -1,0 +1,18 @@
+{
+    "apple.com": {
+        "email": "omkar@gmail.com",
+        "password": "apple"
+    },
+    "coep.ac.in": {
+        "email": "omkar@gmail.com",
+        "password": "coep1234"
+    },
+    "omkar.com": {
+        "email": "omkar@gmail.com",
+        "password": "omkar"
+    },
+    "amazon.com": {
+        "email": "ok2662004@gmail.com",
+        "password": "amazon"
+    }
+}
